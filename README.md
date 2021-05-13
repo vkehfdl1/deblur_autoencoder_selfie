@@ -38,6 +38,7 @@ auto encoder는 기본적으로 input 값과 output 값이 동일한 뉴럴 네�
 6. [Tensorflow](https://www.tensorflow.org/?hl=ko)
 7. [OpenCV](https://opencv.org/)
 8. [Pillow](https://pillow.readthedocs.io/en/stable/)
+9. [Albumentations](https://github.com/albumentations-team/albumentations)
 
 #### 참고 코드
 1. [De-blurring images using convolutional auto encoder](https://levelup.gitconnected.com/de-blurring-images-using-convolutional-neural-networks-with-code-51d3f8d7b1d7)
