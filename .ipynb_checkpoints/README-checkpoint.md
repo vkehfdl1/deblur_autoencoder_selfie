@@ -6,8 +6,10 @@ CCTV 노후화 등으로 인하여 과속 차량이나 흉악범의 얼굴 등�
 
 ### notebooks
 
-- [텀프로젝트 제안서](./2020103913_term_project_proposal_submission.ipynb)
+- [텀프로젝트 제안서](./2020103913_term_project_proposal.ipynb)
+- [텀프로젝트 중간 보고서](./2020103913_term_project_mid_term_report.ipynb)
 - [인스타그램에서 데이터 크롤링](./get_data_insta.ipynb)
+- [이미지 visualization 및 얼굴 detection](./visualize_pics.ipynb)
 
 ### 추가설명
 
