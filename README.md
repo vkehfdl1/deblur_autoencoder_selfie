@@ -21,7 +21,9 @@ CCTV 노후화 등으로 인하여 과속 차량이나 흉악범의 얼굴 등�
 
 ### 프로젝트 결과
 
-
+![result1](./resource/result1.png)
+![result2](./resource/result2.png)
+![result3](./resource/result3.png)
 
 ### 참고 문헌
 
